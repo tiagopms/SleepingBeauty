@@ -4,3 +4,6 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/xerek/sleepingbeauty.git
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/tiagopms/SleepingBeautyArduino.git
