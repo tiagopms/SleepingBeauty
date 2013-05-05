@@ -7,3 +7,6 @@
 [submodule "arduino"]
 	path = arduino
 	url = https://github.com/tiagopms/SleepingBeautyArduino.git
+[submodule "laptop"]
+	path = laptop
+	url = https://github.com/JoaoFelipe/ArduinoInterface.git
